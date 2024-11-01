@@ -153,7 +153,7 @@
 	?>
 	</div>
 	<footer role="contentinfo">
-		<p>Version 0.1 | <a href="https://github.com/your-repo" target="_blank" rel="noopener noreferrer" aria-label="Visit the GitHub repository">GitHub</a></p>
+		<p>Version 0.1 | <a href="https://github.com/bugnumber9/wp-secrets-generator" target="_blank" rel="noopener noreferrer" aria-label="Visit the GitHub repository">GitHub</a></p>
 	</footer>
 </body>
 </html>
